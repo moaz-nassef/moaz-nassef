@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="60" viewBox="0 0 1000 60">
+  <defs>
+    <linearGradient id="dGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C9A96E" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C9A96E" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#C9A96E" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="strokeG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C9A96E" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C9A96E" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#C9A96E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="24" width="1000" height="2" fill="url(#dGold)"/>
+
+  <!-- Animated code chevron -->
+  <g transform="translate(500,30)">
+    <g stroke="url(#strokeG)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-26,-10 L-14,0 L-26,10">
+        <animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+      </path>
+      <path d="M-8,-10 L4,0 L-8,10">
+        <animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.45s" repeatCount="indefinite"/>
+      </path>
+      <path d="M10,-10 L22,0 L10,10">
+        <animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <text x="500" y="50" font-family="Courier New, monospace" font-size="11" fill="#7A776E" text-anchor="middle" letter-spacing="6">EST.</text>
+</svg>
