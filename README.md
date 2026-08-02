@@ -142,7 +142,7 @@ const moaz = Developer(
 
 <div align="center">
 
-<img src="https://github.com/moaz-nassef/moaz-nassef/blob/output/snake.svg" width="90%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/moaz-nassef/moaz-nassef/output/snake.svg" width="90%" alt="Snake animation" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=moaz-nassef&style=for-the-badge&color=C9A96E&label=PROFILE+VIEWS)
 
