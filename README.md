@@ -1,157 +1,96 @@
 <div align="center">
 
-<!-- ════════════════════ ANIMATED SVG BANNER ════════════════════ -->
+<img src="https://raw.githubusercontent.com/moaz-nassef/moaz-nassef/main/header.svg" width="100%" alt="Moaz Nassef - Software Engineer and Flutter Developer" />
 
-<img src="https://raw.githubusercontent.com/moaz-nassef/moaz-nassef/main/header.svg" width="100%" alt="Moaz Nassef — Software Engineer & Flutter Developer banner" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3200&pause=700&color=C9A96E&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Software+Engineer;Flutter+and+Dart+Developer;Real-time%2C+offline-first+and+AI-powered+apps;Building+thoughtful+mobile+products+from+Cairo)](https://git.io/typing-svg)
 
-<!-- ════════════════════ TYPING ANIMATION ════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3200&pause=700&color=C9A96E&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=70&lines=Software+Engineer+%F0%9F%91%8B;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Clean+Architecture+%26+SOLID+%E2%9C%A8;Building+quality+mobile+apps+from+Cairo+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-C9A96E?style=for-the-badge&logo=cloudflarepages&logoColor=111111)](https://moaz-nasssef-portfoilo.pages.dev/)
 
 </div>
 
-<!-- ════════════════════ ABOUT ME ════════════════════ -->
-
-## 👨‍💻 About Me
+## About Me
 
 ```dart
 const moaz = Developer(
   name: "Moaz Nassef",
-  title: "Software Engineer · Flutter Developer",
-  location: "Cairo, Egypt 🇪🇬",
-  education: "B.Sc. Computer Science — Benha University (2020–2024)",
+  title: "Software Engineer and Flutter Developer",
+  location: "Cairo, Egypt",
+  education: "B.Sc. Computer Science - Benha University (2020-2024)",
   focus: [
-    "Cross-platform mobile apps with Flutter",
-    "Clean Architecture & robust state management",
-    "Seamless Firebase & REST API integration",
-    "AI-powered app experiences",
+    "Cross-platform Flutter applications",
+    "Clean Architecture and predictable state management",
+    "Offline-first data and resilient mobile UX",
+    "Real-time Firebase, WebRTC, and REST API integrations",
+    "AI-powered app experiences with secure backend services",
   ],
-  currentlyLearning: "Advanced animations & performance optimization 🚀",
-  openTo: "Freelance projects · Collaboration · Opportunities 💼",
+  openTo: "Freelance projects, collaboration, and opportunities",
 );
 ```
 
-<!-- ════════════════════ TECH STACK ════════════════════ -->
+I build polished Flutter applications that solve real product problems. My recent work spans AI voice analysis, real-time messaging, WebRTC audio calls, offline-first storage, Arabic-aware search, Firebase, Supabase Edge Functions, and clean feature-first architecture.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=swagger&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-00A86B?style=for-the-badge&logo=webrtc&logoColor=white)
 
-![BLoC](https://img.shields.io/badge/Bloc/Cubit-FF7C4C?style=for-the-badge&logo=bloc&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-6E5FD3?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-30B5D2?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-important?style=for-the-badge&logo=codeforces&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-9cf?style=for-the-badge&logo=codeforces&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FFC90E?style=for-the-badge&logo=hive&logoColor=black)
-![Isar](https://img.shields.io/badge/Isar-DB4D4D?style=for-the-badge&logo=isar&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC%20%2F%20Cubit-7C6CFF?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-6E5FD3?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2B2B2B?style=for-the-badge)
+![Hive](https://img.shields.io/badge/Hive-FFC90E?style=for-the-badge&logo=hive&logoColor=111111)
+![Isar](https://img.shields.io/badge/Isar-DB4D4D?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-<!-- ════════════════════ GITHUB ANALYTICS ════════════════════ -->
+## Featured Projects
 
-## 📊 GitHub Analytics
+| Project | What I built | Stack |
+| :-- | :-- | :-- |
+| [Memory Notes](https://github.com/moaz-nassef/memory_notes) | Offline-first notes for text, images, recordings, and checklists. Voice AI transcribes speech, creates structured notes, and extracts actionable tasks in an editable review flow. | Flutter, BLoC, Hive, Groq, Supabase |
+| [Chat App](https://github.com/moaz-nassef/Chat-App-) | Private real-time messaging with authentication, presence, read receipts, Gemini and custom AI providers, plus private WebRTC audio calls. | Flutter, Firebase, Gemini, WebRTC, BLoC |
+| [Huungry](https://github.com/moaz-nassef/BurgerShop) | Food delivery with real API integration, guest mode, auto-login, cart, checkout, 3D Visa form, and order history. | Flutter, BLoC, Dio, GetIt, REST API |
+| [LexiVault](https://github.com/moaz-nassef/lexi_vault) | Bilingual Arabic-first legal workspace for clients, cases, and document attachments with offline local storage. | Flutter, Riverpod, Isar, GoRouter, RTL |
+| [Rick and Morty Explorer](https://github.com/moaz-nassef/rickandmorty) | Character explorer with search, pagination, grid/list layouts, animated portal visuals, previews, and complete network feedback states. | Flutter, BLoC, Dio, Caching |
+| [Shop Test App](https://github.com/moaz-nassef/Shop_Test_App) | E-commerce app with a four-tab shell, catalog, instant search, cart, filters, product management, and pull-to-refresh. | Flutter, Riverpod, REST API |
+| [News App](https://github.com/moaz-nassef/news-app) | News reader with live headlines, categories, favorites, sharing, animated navigation, and an in-app article reader. | Flutter, BLoC, NewsAPI, WebView |
+
+## GitHub Analytics
 
 <div align="center">
 
-[![Moaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moaz-nassef&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b0b0d&title_color=C9A96E&icon_color=C9A96E&text_color=EDE9E1&border_color=2a2a2e)](https://github.com/moaz-nassef)
+[![Moaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moaz-nassef&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0b0b0d&title_color=C9A96E&icon_color=C9A96E&text_color=EDE9E1)](https://github.com/moaz-nassef)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moaz-nassef&theme=tokyonight&hide_border=true&background=0b0b0d&ring=C9A96E&fire=C9A96E&currStreakLabel=EDE9E1&sideLabels=EDE9E1&dates=7A776E)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moaz-nassef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b0d&title_color=C9A96E&text_color=EDE9E1&border_color=2a2a2e)](https://github.com/moaz-nassef)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moaz-nassef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b0d&title_color=C9A96E&text_color=EDE9E1)](https://github.com/moaz-nassef)
 
 </div>
 
-<!-- ════════════════════ FEATURED PROJECTS ════════════════════ -->
+## Education & Training
 
-## 🚀 Featured Projects
+- B.Sc. Computer Science, Benha University (2020-2024)
+- Udacity Arab Million Coders Nanodegree - Python development and software fundamentals
+- NTI CCNA Training - Networking fundamentals, routing, and switching
+- Errorteam Committee - Marketing member and technology community outreach
+
+## Connect
 
 <div align="center">
 
-| Project | Description | Stack |
-| :------ | :---------- | :---- |
-| 📝 **Memory Notes** | Multi-functional notes app — text, images, audio recordings & embedded todo lists. | Flutter · BLoC · Hive |
-| 💬 **AI Chat App** | Real-time chat with Firebase auth, user search, private messaging & AI assistant. | Flutter · Firebase · AI |
-| 🍔 **Hungry — Food Delivery** | Food delivery app with auth, profile, auto-login & scalable architecture. | Flutter · BLoC · Dio |
-| 🛒 **Shop App** | E-commerce with product listing, categories, cart system & API integration. | Flutter · Riverpod · REST |
-| 📰 **News App** | Real-time categorized articles from external APIs with a clean UI. | Flutter · REST API |
-| 🔐 **LexiVault** | Secure personal file vault with local-first storage & smooth routing. | Flutter · Riverpod · Isar |
-| ⚖️ **Lawyer App** | Legal assistant platform with offline data & declarative navigation. | Flutter · Riverpod · Isar |
-| 🪐 **Rick & Morty Explorer** | Character explorer driven by the public Rick & Morty API. | Flutter · BLoC · Dio |
-| 🏫 **School Management** | School system with Firebase authentication & cloud data. | Flutter · Firebase |
-| 🎮 **Memory Card Game** | Classic memory matching game with smooth animations. | Flutter · Dart |
-| 🌿 **Serenity Echo** | Wellness companion app backed by Firebase. | Flutter · Provider · Firebase |
-| 🌐 **Portfolio Website** | Personal portfolio with bilingual support (AR/EN). | Next.js · Tailwind · TS |
+[![Portfolio](https://img.shields.io/badge/Portfolio-C9A96E?style=for-the-badge&logo=cloudflarepages&logoColor=111111)](https://moaz-nasssef-portfoilo.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-nassef)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaz-nassef)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaznassef2002@gmail.com)
 
 </div>
 
-<!-- ════════════════════ SKILL ICONS ════════════════════ -->
-
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,android,nextjs,react,typescript,tailwind,python,git,github,vscode,figma&perline=13)](https://skillicons.dev)
-
-</div>
-
-<!-- ════════════════════ TROPHIES ════════════════════ -->
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=moaz-nassef&theme=onedark&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=6&title_color=C9A96E&text_color=EDE9E1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- ════════════════════ EXPERIENCE & TRAINING ════════════════════ -->
-
-## 🎓 Education & Experience
-
-- 🎓 **B.Sc. Computer Science** — Benha University *(2020 – 2024)*
-- 🚀 **Udacity — Arab Million Coders Nanodegree** — Python development
-- 🌐 **NTI — CCNA Training** — Networking fundamentals, routing & switching
-- 🤝 **Errorteam Committee** — Marketing member & community outreach *(2021)*
-
-<!-- ════════════════════ CONNECT ════════════════════ -->
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-nassef)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaz-nassef)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaznassef2002@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/moaz-nassef/moaz-portfolio)
-
-</div>
-
-<!-- ════════════════════ FOOTER ════════════════════ -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/moaz-nassef/moaz-nassef/output/snake.svg" width="90%" alt="Snake animation" />
-
-![Profile views](https://komarev.com/ghpvc/?username=moaz-nassef&style=for-the-badge&color=C9A96E&label=PROFILE+VIEWS)
-
-<br/>
-
-```
-⭐ Thanks for visiting — let's build something great together! ⭐
-```
-
-<img src="https://raw.githubusercontent.com/moaz-nassef/moaz-nassef/main/divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/moaz-nassef/moaz-nassef/output/snake.svg" width="90%" alt="GitHub contribution snake animation" />
 
 </div>
